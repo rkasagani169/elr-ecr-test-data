@@ -1,0 +1,4 @@
+case_id,patient_id,condition_code_snomed,condition_name,case_status,report_date,reporting_provider
+CASE2001,P001,840539006,COVID-19,Confirmed,2024-01-02,Emory Healthcare
+CASE2002,P002,15628003,Gonorrhea,Probable,2024-01-02,Northside Hospital
+CASE2003,P003,314053006,Chlamydia,Not a Case,2024-01-02,Wellstar Health
